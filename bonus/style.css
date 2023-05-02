@@ -1,7 +1,11 @@
 [class*="col"] {
-    background-color: #006cfa;
-    color: white;
-    border: 1px black solid;
-    text-align: center;
-    height: 5px;
+    background-color: #001533;
+    height: 120px;
+    border-radius: 50px;
+}
+.m-top{
+    margin-top: 50px;
+}
+.green{
+    background-color: #00e165;
 }
