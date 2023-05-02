@@ -1,0 +1,15 @@
+[class*="col"] {
+    background-color: #006cfa;
+    color: white;
+    border: 1px white solid;
+    text-align: center;
+}
+.green{
+    background-color: #01e165;
+}
+.m-bottom{
+    margin-bottom: 40px;
+}
+.height{
+    height: 30px;
+}
