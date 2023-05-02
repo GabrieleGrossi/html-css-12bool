@@ -6,10 +6,14 @@
 }
 .green{
     background-color: #01e165;
+    border: 1px solid #006cfa;
 }
 .m-bottom{
     margin-bottom: 40px;
 }
+.padding{
+    padding: 10px;
+}
 .height{
-    height: 30px;
+    height: 50px;
 }
